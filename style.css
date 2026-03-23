@@ -4,3 +4,35 @@
                         .titulo-hobbies {
                 color:blue;
             }
+
+            article section p span {
+
+            }
+            .navbar {
+                display: flex;
+                list-style: none;
+            }
+            .navbar li {
+                margin-right: 10px;
+
+            }
+
+            .navbar {
+                display: flex;
+                list-style: none;
+                padding: 0;
+            }
+
+            .navbar li a {
+                text-decoration: none;
+            }
+
+            .navbar li a:hover {
+                text-decoration: none;
+                color: red;
+
+            }
+            .contenedor {
+                width: 1200px;
+                margin: 0 auto;
+            }
