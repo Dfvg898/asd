@@ -35,4 +35,10 @@
             .contenedor {
                 width: 1200px;
                 margin: 0 auto;
+                background-color: white;
+            }
+
+            body {
+                background-image: url(https://img.freepik.com/premium-photo/light-black-future-technology-book-cover-background-21_769134-409.jpg?semt=ais_incoming&w=740&q=80);
+                
             }
